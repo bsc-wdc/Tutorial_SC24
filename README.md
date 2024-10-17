@@ -18,7 +18,7 @@ The tutorial will focus on a set of tools and methodologies for managing the who
 | 9:40 - 10:00 | [Part 1.3: HPC ready container images  Motivation for architecture specific containers](slides/Part_1.3.pdf)  | Rosa M Badia  |
 | 10:00 - 10:30 | Break (30 min)  |  |
 | 10:30 - 10:45 | Hands-on preparation | All presenters |
-| 10:45 - 11:15 | [Part 2.1: Hands-on session: Sample workflows with PyCOMPSs and execution with containers](handson/Hands-on guide\ and\ questions.pdf) | Rosa M Badia |
+| 10:45 - 11:15 | [Part 2.1: Hands-on session: Sample workflows with PyCOMPSs and execution with containers](handson/Hands-on guide&#32and&#32questions.pdf) | Rosa M Badia |
 | 11:15 - 11:55 | Part 2.2: Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub  | Raül Sirvent |
 | 11:55 - 12:00 | Tutorial conclusions  | All presenters  |
 
