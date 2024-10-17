@@ -22,10 +22,3 @@ The tutorial will focus on a set of tools and methodologies for managing the who
 | 11:15 \- 11:55 | Part 2.2: Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub  | Raül Sirvent |
 | 11:55 \- 12:00 | Tutorial conclusions (5 min) | All presenters  |
 
-<<<<<<< HEAD
-=======
-Test update
-
-Another update 
-
->>>>>>> f371b9fe401779ab986dedb6d1da6c2ca2c6e3e4
