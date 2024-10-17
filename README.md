@@ -11,7 +11,7 @@ The tutorial will focus on a set of tools and methodologies for managing the who
 ## Agenda
 
 | Time | Session | Presenter |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | 08:30 – 08:45 | Overview of tutorial agenda  | Rosa M Badia  |
 | 8:45 \- 9:10  | Part 1.1: Hybrid HPC+AI+DA workflow development with PyCOMPSs Context of the eFlows4HPC project and HPCWaaS methodology Overview of workflow development with PyCOMPSs Extensions for the integration of HPC with AI and DA  | Rosa M Badia |
 | 9:10 \- 9:40 | Part 1.2: Workflows’ reproducibility through provenance   Motivation for workflow provenance Design of the recording mechanism Sharing experiments for reproducibility | Raül Sirvent |
