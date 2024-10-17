@@ -13,12 +13,12 @@ The tutorial will focus on a set of tools and methodologies for managing the who
 | Time | Session | Presenter |
 | ---- | ---- | ---- |
 | 08:30 – 08:45 | Overview of tutorial agenda  | Rosa M Badia  |
-| 8:45 \- 9:10  | Part 1.1: Hybrid HPC+AI+DA workflow development with PyCOMPSs | Rosa M Badia |
-| 9:10 \- 9:40 | Part 1.2: Workflows’ reproducibility through provenance  | Raül Sirvent |
-| 9:40 \- 10:00 | Part 1.3: HPC ready container images  Motivation for architecture specific containers  | Rosa M Badia  |
-| 10:00 \- 10:30 | Break (30 min)  |  |
-| 10:30 \- 10:45 | Hands-on preparation | All presenters |
-| 10:45 \- 11:15 | Part 2.1: Hands-on session: Sample workflows with PyCOMPSs and execution with containers | Rosa M Badia |
-| 11:15 \- 11:55 | Part 2.2: Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub  | Raül Sirvent |
-| 11:55 \- 12:00 | Tutorial conclusions  | All presenters  |
+| 8:45 - 9:10  | Part 1.1: Hybrid HPC+AI+DA workflow development with PyCOMPSs | Rosa M Badia |
+| 9:10 - 9:40 | Part 1.2: Workflows’ reproducibility through provenance  | Raül Sirvent |
+| 9:40 - 10:00 | Part 1.3: HPC ready container images  Motivation for architecture specific containers  | Rosa M Badia  |
+| 10:00 - 10:30 | Break (30 min)  |  |
+| 10:30 - 10:45 | Hands-on preparation | All presenters |
+| 10:45 - 11:15 | Part 2.1: Hands-on session: Sample workflows with PyCOMPSs and execution with containers | Rosa M Badia |
+| 11:15 - 11:55 | Part 2.2: Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub  | Raül Sirvent |
+| 11:55 - 12:00 | Tutorial conclusions  | All presenters  |
 
