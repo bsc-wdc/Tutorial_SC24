@@ -19,6 +19,6 @@ The tutorial will focus on a set of tools and methodologies for managing the who
 | 10:00 - 10:30 | Break (30 min)  |  |
 | 10:30 - 10:45 | Hands-on preparation | All presenters |
 | 10:45 - 11:15 | [Part 2.1: Hands-on session: Sample workflows with PyCOMPSs and execution with containers](handson/Hands-on&#32guide&#32and&#32questions.pdf) | Rosa M Badia |
-| 11:15 - 11:55 | Part 2.2: [Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub](handson/Worfklow&#32Provenance&#32Hands-on&#32guide&#32and&#32questions.pdf)  | Raül Sirvent |
+| 11:15 - 11:55 | [Part 2.2: Hands-on session: How to automatically record workflow provenance and use it to share experiments in WorkflowHub](handson/Workflow%20Provenance%20Hands-on%20guide%20and%20questions.pdf)  | Raül Sirvent |
 | 11:55 - 12:00 | Tutorial conclusions  | All presenters  |
 
